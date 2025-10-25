@@ -5,7 +5,7 @@ public class WinDefat : MonoBehaviour
     public bool win = false;
     public bool defat = false;
     public bool touchBoss = false;
-    int cloneScore = 100;
+    int cloneScore = 1;
 
     public Animator animator;
 
